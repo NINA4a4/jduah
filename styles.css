@@ -1,0 +1,34 @@
+body {
+    background: rgb(75, 192, 84);
+    color: white;
+    font-family: "Josefin Sans", serif;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 2px rgb(25, 78, 52);
+    padding: 20px;
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+}
+
+.chamada {
+    background: rgb(163, 194, 92);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
